@@ -1,0 +1,484 @@
+
+0,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Perifériás idegkárosodás esetén mikor várható az EMG vizsgálattal kimutatható, a denervációt jelző spontán izomaktivitás megjelenése?
+a.
+Egyik sem, mert ilyen jelenség nem alakul ki
+ b.
+1-2 nap
+ c.
+3-4 hónap
+ d. 
+2-3 hét
+Visszajelzés
+A helyes válasz: 2-3 hét.
+2 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Az izmokból elvezethető összetett akciós potenciál melyik paraméterét vizsgáljuk ENG során?
+ a.
+Latenciát
+ b.
+Amplitudót
+ c.
+Egyiket sem
+ d.
+Mindkettőt
+Visszajelzés
+A helyes válasz: Mindkettőt.
+3 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Az izom saját betegségére jellemző, hogy
+ a.
+EMG vizsgálat során csökkent interferencia mintát látunk
+ b.
+A mozgató rostok vezetési sebessége kifejezetten gyors
+ c.
+Az érintett végtagokon piramisjelek vannak
+ d.
+Az érző rostokban vezetési blokk alakul ki
+Visszajelzés
+A helyes válasz: EMG vizsgálat során csökkent interferencia mintát látunk.
+4 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+A motoros rendszer melyik részének működészavarát detektálhatja elsősorban az ENG vizsgálat?
+ a.
+Mindkettő
+ b.
+Centralis motoneuron
+ c.
+Periferiás motoneuron
+ d.
+Egyik sem
+Visszajelzés
+A helyes válasz: Periferiás motoneuron.
+5 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Az alábbiak közül melyik panasz utalhat izomdystrophiára?
+ a.
+Piramisjelek az alsó végtagokon
+ b.
+A lábfejek zsibbadása
+ c.
+A beteg nehezen tud lépcsőn felfelé menni
+ d.
+Areflexia az alsó végtagokon
+Visszajelzés
+A helyes válasz: A beteg nehezen tud lépcsőn felfelé menni.
+6 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+A myelinhüvely
+ a.
+Minden neuron saját maga számára termeli, és ezzel burkolja be az axont
+ b.
+Fő funkciója az idegrost „elektromos szigetelése”
+ c.
+Csak az érző rostokat borítja
+ d.
+Egyik sem
+Visszajelzés
+A helyes válasz: Fő funkciója az idegrost „elektromos szigetelése”.
+7 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mely aktivitás jellemző az egészséges, mélyen alvó személy EEG-jére
+ a.
+Egyik sem
+ b.
+Alpha aktivitás
+ c.
+Delta hullámok
+ d.
+Mindkettő
+Visszajelzés
+A helyes válasz: Delta hullámok.
+8 kérdés
+Hibás
+0,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mi a carpalis alagút szindróma típusos tünete?
+ a.
+Izomgyengeség a mutatóujjban
+ b.
+Mindkettő
+ c.
+Éjszakai fájdalmas kézzsibbadás
+ d.
+Egyik sem
+Visszajelzés
+A helyes válasz: Mindkettő.
+9 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mire használjuk a poliszomnográfiát?
+ a.
+Egyik sem
+ b.
+Alvászavarok diagnosztizálására
+ c.
+Mindkettő
+ d.
+Az alvás során jelentkező légzési zavarok kimutatására
+Visszajelzés
+A helyes válasz: Mindkettő.
+10 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+A perifériás motoros pályarendszernek nem része
+ a.
+A corticobulbáris rostok
+ b.
+A pszeudounipoláris érző neuronok perifériás nyúlványa
+ c.
+Egyik sem
+ d.
+A corticalis motoneuron axonja
+Visszajelzés
+A helyes válasz: Egyik sem.
+11 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+A motoros kiváltott válasz vizsgálat melyik betegség diagnózisában hasznos?
+ a.
+Epilepszia
+ b.
+Mindkettő
+ c.
+Egyik sem
+ d.
+Halláskárosodás
+Visszajelzés
+A helyes válasz: Egyik sem.
+12 kérdés
+Hibás
+0,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Az elektromiográfiával (EMG) kapcsolatban az alábbi állítások közül helyes
+ a.
+Mindkettő
+ b.
+Egyik sem
+ c.
+Myopátiában az EMG az izomok károsodására jellegzetes eltérést mutat
+ d.
+A myasthenia gravis diagnózisában használható módszer
+Visszajelzés
+A helyes válasz: Mindkettő.
+13 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Melyik neurofiziológiai eltéréssel lehet a legjobban lokalizálni az idegsérülés helyét?
+ a.
+Mindkettő
+ b.
+A motoros egységpotenciál mérete alapján
+ c.
+A vezetési blokk helyének meghatározása
+ d.
+Egyik sem
+Visszajelzés
+A helyes válasz: A vezetési blokk helyének meghatározása.
+14 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+A motoros egység definíciója:
+ a.
+A gerincvelői mozgatóneuron és az általa innervált izomrostok együttesen
+ b.
+Egy adott gerincvelői szegmentum által ellátott izmok összessége
+ c.
+A másodlagos mozgató kéregben helyet foglaló piramis sejtek csoportja
+ d.
+A felső mozgatóneuron és az alsó mozgatóneuron által alkotott működési egység
+Visszajelzés
+A helyes válasz: A gerincvelői mozgatóneuron és az általa innervált izomrostok együttesen.
+15 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+A carpalis alagút szindróma kimutatásában használatos módszer
+ a.
+Egyik sem
+ b.
+Mindkettő
+ c.
+Perifériás ideg ultrahang vizsgálat
+ d.
+Elektroneurográfiás vizsgálat
+Visszajelzés
+A helyes válasz: Mindkettő.
+16 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mennyi idő alatt gyógyul meg a vezetési blokkal járó kompressziós idegkárosodás?
+ a.
+1-2 hét
+ b.
+4-6 hét
+ c.
+3-4 hét
+ d.
+2-3 hét
+Visszajelzés
+A helyes válasz: 4-6 hét.
+17 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+A polyneuropathiaban
+ a.
+Mindkettő
+ b.
+A motoros rostok amplitúdója megnő
+ c.
+Egyik sem
+ d.
+Az érzőrostok vezetési sebessége lassú
+Visszajelzés
+A helyes válasz: Az érzőrostok vezetési sebessége lassú.
+18 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+A carpalis alagút szindróma oka
+ a.
+A n. radialis kompressziója
+ b.
+A n. medianus kompressziója a csukló magasságában
+ c.
+A n. ulnaris sérülése
+ d.
+A n. medianus sérülése a könyök magasságában
+Visszajelzés
+A helyes válasz: A n. medianus kompressziója a csukló magasságában.
+19 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mi jellemző polyneuropathiában?
+ a.
+A tünetek hirtelen jelentkeznek
+ b.
+A tünetek csak egy végtagon jelentkeznek
+ c.
+Szimmetrikus érzészavar a végtagokon zokni – kesztyű eloszlásban
+ d.
+A kezdeti tünet az érzészavar a törzsön
+Visszajelzés
+A helyes válasz: Szimmetrikus érzészavar a végtagokon zokni – kesztyű eloszlásban.
+20 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mi okozhatja a n. peroneus fibulafejecs táji kompressziós károsodását?
+ a.
+Térdig érő gipszkötés
+ b.
+Tartós guggolás
+ c.
+A fentiek közül az összes
+ d.
+Tartósan keresztbe tett lábak
+Visszajelzés
+A helyes válasz: A fentiek közül az összes.
+21 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mi a diabeteses polyneuropathia típusos kezdeti tünete?
+ a.
+Fájdalmas alsóvégtagi bénulás
+ b.
+Mindkét kar zsibbadása
+ c.
+Mindkét lábfej égő paresthesiája
+ d.
+Fokozott mélyreflexek
+Visszajelzés
+A helyes válasz: Mindkét lábfej égő paresthesiája.
+22 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mi tartja fenn a nyugalmi membránpotenciált?
+ a.
+A sejten belüli magasabb Ca+ koncentráció
+ b.
+A sejten kívüli magasabb Cl+ koncentráció
+ c.
+A féligáteresztő sejtmembrán, melyben aktív Na/K pumpa is segíti az ionok eloszlását
+ d.
+Az akciós potenciál
+Visszajelzés
+A helyes válasz: A féligáteresztő sejtmembrán, melyben aktív Na/K pumpa is segíti az ionok eloszlását.
+23 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Epilepsziára utaló EEG eltérés
+ a.
+Alpha hullám aktivitás
+ b.
+3 Hz tüske hullám minta
+ c.
+Mindkettő
+ d.
+Egyik sem
+Visszajelzés
+A helyes válasz: 3 Hz tüske hullám minta.
+24 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Az elektroneuronográfia (ENG):
+ a.
+El tudja elkülöníteni az axonális károsodást a demyelinizációs léziótól
+ b.
+Egyik sem
+ c.
+A betegségre specifikus eltérések mindig azonosíthatók
+ d.
+Mindkettő
+Visszajelzés
+A helyes válasz: El tudja elkülöníteni az axonális károsodást a demyelinizációs léziótól.
+25 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Milyen betegségben használhatjuk az EEG vizsgálatot a differenciál diagnózisban?
+ a.
+Mindkettő
+ b.
+Epilepszia
+ c.
+Tudatzavar
+ d.
+Egyik sem
+Visszajelzés
+A helyes válasz: Mindkettő.
+26 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Milyen típusos EMG eltérés van myasthenia gravisban?
+ a.
+Egyik sem
+ b.
+A sorozatingerlés során az izomból elvezethető potenciálok amplitúdója növekszik.
+ c.
+Fibrilláció
+ d.
+Mindkettő
+Visszajelzés
+A helyes válasz: Egyik sem.
+27 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Melyik pályarendszer vizsgálható kiváltott válasz vizsgálattal?
+ a.
+Mindegyik
+ b.
+Hallópálya
+ c.
+Látópálya
+ d.
+Corticospinalis pálya
+Visszajelzés
+A helyes válasz: Mindegyik.
+28 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Az ENG segíthet felfedni
+ a.
+Egyiket sem
+ b.
+Az axonkárosodást
+ c.
+A perifériás ideg velőshüvely károsodását
+ d.
+Mindkettőt
+Visszajelzés
+A helyes válasz: Mindkettőt.
+29 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Az alábbi jelenségek vesznek részt az EEG jelek kialakításában
+ a.
+Akciós potenciálok
+ b.
+Mindkettő
+ c.
+Egyik sem
+ d.
+Szinaptikus potenciálok
+Visszajelzés
+A helyes válasz: Mindkettő.
+30 kérdés
+Helyes
+1,00/1,00 pont
+ A kérdés megjelölése
+Kérdés szövege
+Mi hozza létre az akciós potenciált?
+ a.
+A pozitív töltésű klorid ionok kilépése a neuronból
+ b.
+A Na+ ill. K+ ionok vándorlása a sejtmembránon keresztül
+ c.
+Egyik sem
+ d.
+A töltéssel rendelkező fehérjék átlépése a sejtmembránon
+Visszajelzés
+A helyes válasz: A Na+ ill. K+ ionok vándorlása a sejtmembránon keresztül.
+
+/1. oldal
+4/2. oldal
+4/3. oldal
+
