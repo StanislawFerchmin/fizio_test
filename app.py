@@ -13,7 +13,7 @@ def load_data():
 
     sections = [s.strip() for s in questions if s.strip()]
 
-    re_pattern = r'\d*\s*kérdés|Helyes|Kérdés szövege|A kérdés megjelölése'
+    re_pattern = r'\d+\s*[Kk]érdés\s+\w+'
 
     # Use flags=re.IGNORECASE so you don't have to worry about [Kk]
     questions = [re.sub(re_pattern, '', question, flags=re.IGNORECASE).strip() for question in questions]
@@ -65,3 +65,4 @@ if st.button("Következő kérdés ➡️"):
 
 
 st.sidebar.info(f"Összes kérdés a fájlban: {len(data)}")
+
