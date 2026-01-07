@@ -13,7 +13,10 @@ def load_data():
 
     sections = [s.strip() for s in questions if s.strip()]
 
+    re_pattern = r'\d*\s*kérdés|Helyes|Kérdés szövege|A kérdés megjelölése'
 
+    # Use flags=re.IGNORECASE so you don't have to worry about [Kk]
+    questions = [re.sub(re_pattern, '', question, flags=re.IGNORECASE).strip() for question in questions]
 
     split_pattern_2 = r'([abcd]\.|[Aa] helyes válasz:)'
 
@@ -59,5 +62,6 @@ if st.button("Következő kérdés ➡️"):
     st.session_state.q_index = random.randint(0, len(data) - 1)
     st.session_state.show_answer = False
     st.rerun()
+
 
 st.sidebar.info(f"Összes kérdés a fájlban: {len(data)}")
